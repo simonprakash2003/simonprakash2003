@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonprakash2003
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning B.sc.data science and M.sc data science
+- 🌱 I’m currently Final Year B.sc.data science and M.sc data science
 - 📫 How to reach me simonprakash81@gmail.com
 
 <!---
